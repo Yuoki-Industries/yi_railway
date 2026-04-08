@@ -1,8 +1,0 @@
-Yuoki Railways Version 0.3.8 - Notes
-
-Always Backup your Savegame before Update !
-
-changes
-- somewho it works now with 0.13
-- some recipes changed (version-upgrade casualties)
-

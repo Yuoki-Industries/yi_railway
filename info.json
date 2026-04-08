@@ -1,11 +1,16 @@
 
 {
 "name": "yi_railway",
-"title": "Yuoki Industries - Railways",
-"version": "0.8.27",
-"date": "2020-04-13",
+"title": "YIR - Yuoki Industries - Railways",
+"version": "1.3.1",
+"date": "2026-3-11",
 "author": "Yuoki Tani",
-"factorio_version": "0.18",
-"dependencies": ["base >= 0.18.9"],
-"description": "decorative railway mod"
+"contact": "https://discord.gg/fM6NjWabAA",
+"homepage": "https://github.com/jatmn/Yuoki-Railways-Factorio-2.0",
+"factorio_version": "2.0",
+"dependencies": [
+    "base >= 2.0.43",
+    "? Yuoki >= 1.2.13"
+],
+"description": "Yuoki Industries - Railways is a decorative railway mod"
 }

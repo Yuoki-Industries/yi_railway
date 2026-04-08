@@ -1,8 +1,0 @@
-Yuoki Railways Version 0.4.14 - Notes
-
-Always Backup your Savegame before Update !
-
-changes
-- locomotive workshop and cargo-wagon-workshop now 6x6 to match rail-connection
-- added 9 different long cargo-wagons
-

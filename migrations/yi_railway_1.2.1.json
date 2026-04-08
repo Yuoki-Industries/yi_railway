@@ -1,0 +1,24 @@
+{
+	"item":
+	[
+		["y_wagon_closed", "yir_wagon2a_closed"],
+		["yir_loco_del_bluegray", "yir_loco_de_bluegray"],
+		["y_wagon_tank_orange", "yir_wagon_tank_orange"],
+		["y_wagon_tank_blue", "yir_wagon_tank_blue"],
+		["yir_fuel_fluid_u1", "yir_fuel_fluid_u2"],
+		["yir_fuel_fluid_u3", "yir_fuel_fluid_u2"]
+	],
+	"entity":
+	[
+		["y_wagon_closed", "yir_wagon2a_closed"],
+		["yir_loco_del_bluegray", "yir_loco_de_bluegray"],
+		["y_wagon_tank_orange", "yir_wagon_tank_orange"],
+		["y_wagon_tank_blue", "yir_wagon_tank_blue"]
+	],
+	"recipe":
+	[
+		["yir_coins_gen1", "yir_coin"],
+		["yir_wagon2a_tank_orange", "yir_wagon_tank_orange"],
+		["yir_wagon2a_tank_blue", "yir_wagon_tank_blue"]
+	]
+}

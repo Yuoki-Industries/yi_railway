@@ -1,8 +1,0 @@
-Yuoki Railways Version 0.4.14 - Notes
-
-Always Backup your Savegame before Update !
-
-changes
-- fixes the Steam-Era-Coin generation 
-
-

@@ -1,9 +1,0 @@
-Yuoki Railways Version 0.3.9 - Notes
-
-Always Backup your Savegame before Update !
-
-changes
-- somehow it works now with 0.13.1
-- green steam-locomotive can be color-coded
-- some ground-floor-recipes removed
-
